@@ -12,4 +12,4 @@
 - 4주차 : 모델과 파라미터 찾기
 
 ### 수료증
-
+![1](https://github.com/MinwooPyeon/Coaching_study_Data_Science_Projects_2024/assets/153968515/8d5345b0-053f-4d9b-8ff8-c8919c815092)
